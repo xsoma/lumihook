@@ -1,6 +1,6 @@
 
 
-## lumihook aka gladiatorcheatz fix (kinda p cheat) 
+## lumihook fix (kinda p cheat) 
 > internal rage and legit cheat for cs:go
 
 ## "soma projects" community servers
